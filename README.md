@@ -1,4 +1,4 @@
-dans ce projet nous creons une infrastrure sur AWS composé (1 bastion , 1 serveur ansible, 1 master et 2 worker) afin de deployer kuberetes avec des playbook ansible 
+dans ce projet nous creons une infrastructure sur AWS avec terraform (1 bastion , 1 serveur ansible, 1 master et 2 worker) afin de deployer kuberetes avec des playbook ansible 
 
 ```
 .
