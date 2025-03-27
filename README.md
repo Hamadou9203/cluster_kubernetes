@@ -1,3 +1,43 @@
+```
+.
+├── README.md
+├── bastion_node.yaml
+├── files
+│   ├── config.toml
+│   └── crictl.yml
+├── hosts.yaml
+├── infra_terraform
+│   ├── app
+│   │   ├── locals.tf
+│   │   ├── main.tf
+│   │   └── variable.tf
+│   ├── modules
+│   │   ├── ec2_modules
+│   │   │   ├── main.tf
+│   │   │   ├── output.tf
+│   │   │   └── variable.tf
+│   │   ├── natgw_modules
+│   │   │   ├── main.tf
+│   │   │   ├── output.tf
+│   │   │   └── variable.tf
+│   │   ├── sg_modules
+│   │   │   ├── main.tf
+│   │   │   ├── output.tf
+│   │   │   └── variable.tf
+│   │   ├── subnet_modules
+│   │   │   ├── main.tf
+│   │   │   ├── output.tf
+│   │   │   └── variables.tf
+│   │   └── vpc_modules
+│   │       ├── main.tf
+│   │       ├── output.tf
+│   │       └── variables.tf
+│   └── out
+│       └── info-ec2.txt
+└── kube_node.yml
+```
+
+
 installation du network calico
 ```
 kubectl create -f https://docs.projectcalico.org/manifests/calico.yaml
