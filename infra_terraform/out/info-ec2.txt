@@ -1,0 +1,21 @@
+PRIVATE_IP : 10.31.2.52 ; AZ : us-east-1b ; PUBLIC_IP : 18.215.238.246
+PRIVATE_IP : 10.31.101.34 ; AZ : us-east-1a ; PUBLIC_IP : 
+PRIVATE_IP : 10.31.2.14 ; AZ : us-east-1b ; PUBLIC_IP : 23.22.40.30
+PRIVATE_IP : 10.31.2.219 ; AZ : us-east-1b ; PUBLIC_IP : 54.84.91.62
+PRIVATE_IP : 10.31.102.241 ; AZ : us-east-1b ; PUBLIC_IP : 
+PRIVATE_IP : 10.31.102.47 ; AZ : us-east-1b ; PUBLIC_IP : 
+PRIVATE_IP : 10.31.101.33 ; AZ : us-east-1a ; PUBLIC_IP : 
+PRIVATE_IP : 10.31.101.16 ; AZ : us-east-1a ; PUBLIC_IP : 
+PRIVATE_IP : 10.31.1.85 ; AZ : us-east-1a ; PUBLIC_IP : 
+PRIVATE_IP : 10.31.1.85 ; AZ : us-east-1a ; PUBLIC_IP : 34.204.36.212
+PRIVATE_IP : 10.31.101.195 ; AZ : us-east-1a ; PUBLIC_IP : 
+PRIVATE_IP : 10.31.2.221 ; AZ : us-east-1b ; PUBLIC_IP : 52.201.242.12
+PRIVATE_IP : 10.31.102.127 ; AZ : us-east-1b ; PUBLIC_IP : 
+PRIVATE_IP : 10.31.102.241 ; AZ : us-east-1b ; PUBLIC_IP : 
+PRIVATE_IP : 10.31.101.251 ; AZ : us-east-1a ; PUBLIC_IP : 
+PRIVATE_IP : 10.31.101.134 ; AZ : us-east-1a ; PUBLIC_IP : 
+PRIVATE_IP : 10.31.2.151 ; AZ : us-east-1b ; PUBLIC_IP : 3.86.6.87
+PRIVATE_IP : 10.31.101.167 ; AZ : us-east-1a ; PUBLIC_IP : 
+PRIVATE_IP : 10.31.102.251 ; AZ : us-east-1b ; PUBLIC_IP : 
+PRIVATE_IP : 10.31.101.21 ; AZ : us-east-1a ; PUBLIC_IP : 
+PRIVATE_IP : 10.31.102.76 ; AZ : us-east-1b ; PUBLIC_IP : 
